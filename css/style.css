@@ -248,3 +248,18 @@ textarea.contact__textarea {
     padding: 20px 0;
     background: var(--bg-footer);
 }
+
+@media (max-width: 768px) {
+    .header__nav {
+        flex-direction: column;
+    }
+
+    .header__menu {
+        margin-top: 10px;
+    }
+
+    .features__list,
+    .services__list {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,4 +1,5 @@
-**🚀 Responsive Landing Page**
+**🚀 Responsive Landing Page
+**
 A modern, fully responsive landing page built with HTML5 and CSS3 (BEM methodology) following best practices in semantic markup and accessibility.
 
 **✨ Features**

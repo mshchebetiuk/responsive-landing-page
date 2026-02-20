@@ -99,6 +99,17 @@ html {
     transition: transform var(--transition);
 }
 
+.header__button:hover {
+    background-color: var(--secondary-color);
+    color: var(--light-color);
+    transform: translateY(-4px);
+}
+
+.header__button:focus {
+    outline: 2px solid var(--secondary-color);
+    outline-offset: 3px;
+}
+
 /* FEATURES */
 .features {
     padding: 60px 0;

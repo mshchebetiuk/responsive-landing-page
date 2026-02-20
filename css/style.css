@@ -130,3 +130,22 @@ html {
 .features__item:hover {
     transform: translateY(-4px) scale(1.02);
 }
+
+/* ABOUT */
+.about {
+    padding: 60px 0;
+    background: var(--bg-light);
+    text-align: center;
+}
+
+.about__title {
+    margin-bottom: 20p;
+    font-size: 28px;
+}
+
+.about__text {
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+    line-height: 1.8;
+    color: var(--dark-color);
+}

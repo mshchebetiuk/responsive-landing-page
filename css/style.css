@@ -98,3 +98,35 @@ html {
     border-radius: 4px;
     transition: transform var(--transition);
 }
+
+/* FEATURES */
+.features {
+    padding: 60px 0;
+}
+
+.features__title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.features__list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.features__item {
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.features__item-text {
+    color: var(--dark-color);
+}
+
+.features__item:hover {
+    transform: translateY(-4px) scale(1.02);
+}

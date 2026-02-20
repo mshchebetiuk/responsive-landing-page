@@ -138,6 +138,29 @@
                 </div>
             </div>
         </section>
+
+        <!-- CONTACT -->
+        <section id="contact" class="contact">
+            <div class="container">
+                <h2 class="contact__title">Contact Us</h2>
+
+                <form class="contact__form">
+                    <!-- Input Name -->
+                    <label for="name" class="contact__label">Name</label>
+                    <input type="text" id="name" name="name" class="contact__input" placeholder="Enter your name..." required autocomplete="name">
+
+                    <!-- Input Email -->
+                    <label for="email" class="contact__label">Email</label>
+                    <input type="email" id="email" name="email" class="contact__input" placeholder="Enter your email... (ex. test123@example.com)" required autocomplete="email">
+
+                    <!-- Textarea Message -->
+                    <label for="message" class="contact__label">Message</label>
+                    <textarea name="message" id="message" class="contact__textarea" placeholder="Enter your message..." required></textarea>
+
+                    <button class="contact__button">Send</button>
+                </form>
+            </div>
+        </section>
     </main>
 </body>
 </html>

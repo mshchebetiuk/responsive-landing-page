@@ -160,3 +160,35 @@ html {
     line-height: 1.8;
     color: var(--dark-color);
 }
+
+/* SERVICES */
+.services {
+    padding: 60px 0;
+}
+
+.services__title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.services__list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.services__item {
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+    transition: transform 0.3s;
+    border-radius: 4px;
+}
+
+.services__item-text {
+    color: var(--dark-color);
+}
+
+.services__item:hover {
+    transform: translateY(-4px) scale(1.02);
+}

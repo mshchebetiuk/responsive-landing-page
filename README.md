@@ -1,18 +1,40 @@
-**🚀 Responsive Landing Page**
+# Responsive Landing Page
 
-A modern, fully responsive landing page built with HTML5 and CSS3 (BEM methodology) following best practices in semantic markup and accessibility.
+Modern and fully responsive **Landing Page** built with **HTML5 and CSS3**.
+The project focuses on semantic markup, responsive design and clean UI structure.
 
-**✨ Features**
-- Semantic HTML5 structure
-- CSS3 with BEM naming convention
-- Fully responsive (mobile / tablet / desktop)
-- Clean and modern UI
-- Accessibility score 100+ (Google Lighthouse)
-- Optimized performance
+## Features
 
-**🛠 Tech Stack**
-- HTML5 (Semantic Markup)
-- CSS3 (Flexbox / Grid)
-- BEM Methodology
-- Responsive Design
-- Accessibility (ARIA, contrast, proper landmarks)
+* Responsive layout (mobile / tablet / desktop)
+* Semantic HTML structure
+* Modern CSS layout (Flexbox / Grid)
+* Clean and minimal UI
+* Optimized performance
+
+## Tech Stack
+
+* HTML5
+* CSS3
+* Git / GitHub
+
+## Performance
+
+This project achieved a **perfect Lighthouse score**:
+
+* Performance — 100
+* Accessibility — 100
+* Best Practices — 100
+* SEO — 100
+
+## Purpose
+
+This project was created as a **portfolio project** to practice responsive web design and modern CSS layout techniques.
+
+## Preview
+
+Open `index.html` in your browser.
+
+## Author
+
+Maksym Shchebetyuk
+Computer Science Student | Front-End Developer

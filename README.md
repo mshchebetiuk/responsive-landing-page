@@ -3,6 +3,12 @@
 Modern and fully responsive **Landing Page** built with **HTML5 and CSS3**.
 The project focuses on semantic markup, responsive design and clean UI structure.
 
+## 📸 Screenshots
+
+![Layout](./screenshots/layout.png)
+
+![Form](./screenshots/form.png)
+
 ## Features
 
 * Responsive layout (mobile / tablet / desktop)

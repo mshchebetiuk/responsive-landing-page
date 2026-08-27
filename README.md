@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://responsive-landing-page-mu-nine.vercel.app)
+[View Live Demo](https://responsive-landing-page-mshchebetiuk.netlify.app/)
 
 ## 📸 Preview
 

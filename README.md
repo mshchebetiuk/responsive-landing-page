@@ -1,46 +1,112 @@
 # Responsive Landing Page
 
-Modern and fully responsive **Landing Page** built with **HTML5 and CSS3**.
-The project focuses on semantic markup, responsive design and clean UI structure.
+> A modern and fully responsive landing page built with semantic HTML5 and CSS3, focused on accessibility, performance, clean structure, and responsive design.
 
-## 📸 Screenshots
+## 🔗 Live Demo
 
-![Layout](./screenshots/layout.png)
+[View Live Demo](https://responsive-landing-page-mu-nine.vercel.app)
 
-![Form](./screenshots/form.png)
+## 📸 Preview
 
-## Features
+![Desktop Preview](./screenshots/desktop.png)
 
-* Responsive layout (mobile / tablet / desktop)
-* Semantic HTML structure
-* Modern CSS layout (Flexbox / Grid)
-* Clean and minimal UI
-* Optimized performance
+### 📱 Tablet
 
-## Tech Stack
+![Tablet Preview](./screenshots/tablet.png)
 
-* HTML5
-* CSS3
-* Git / GitHub
+### 📱 Mobile
 
-## Performance
+![Mobile Preview](./screenshots/mobile.png)
 
-This project achieved a **perfect Lighthouse score**:
+## ✨ Features
 
-* Performance — 100
-* Accessibility — 100
-* Best Practices — 100
-* SEO — 100
+- Fully responsive layout for mobile, tablet, and desktop
+- Semantic HTML5 structure
+- Modern CSS layouts with Flexbox and Grid
+- BEM methodology
+- Clean and maintainable CSS structure
+- Accessible user interface
+- Optimized performance
+- Cross-device responsive design
 
-## Purpose
+## 🛠️ Tech Stack
 
-This project was created as a **portfolio project** to practice responsive web design and modern CSS layout techniques.
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- BEM
+- Git
+- GitHub
+- Vercel
 
-## Preview
+## 📁 Project Structure
 
-Open `index.html` in your browser.
+```text
+responsive-landing-page/
+├── css/
+├── images/
+├── screenshots/
+├── index.html
+└── README.md
+```
 
-## Author
+## ⚡ Lighthouse Performance
 
-Maksym Shchebetyuk
-Computer Science Student | Front-End Developer
+The project achieved perfect Lighthouse scores:
+
+- Performance — 100
+- Accessibility — 100
+- Best Practices — 100
+- SEO — 100
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/mshchebetiuk/responsive-landing-page.git
+```
+
+### Navigate to the project
+
+```bash
+cd responsive-landing-page
+```
+
+### Run the project
+
+No dependencies or build tools are required.
+
+Open `index.html` directly in your browser.
+
+## 🎯 What I Practiced
+
+During this project, I practiced:
+
+- Building responsive layouts from scratch
+- Writing semantic HTML
+- Working with Flexbox and CSS Grid
+- Applying the BEM methodology
+- Creating layouts for different screen sizes
+- Improving accessibility
+- Optimizing Lighthouse performance
+- Organizing CSS and project assets
+
+## 🔮 Future Improvements
+
+- Add additional interactive elements
+- Improve animations and transitions
+- Expand accessibility testing
+- Add more reusable UI sections
+
+## 👨‍💻 Author
+
+**Maksym Shchebetiuk**
+
+- GitHub: https://github.com/mshchebetiuk
+- LinkedIn: https://www.linkedin.com/in/maksym-shchebetiuk-bb53102a0/
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
